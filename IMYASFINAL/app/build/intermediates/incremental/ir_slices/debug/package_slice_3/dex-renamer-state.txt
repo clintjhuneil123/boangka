@@ -1,0 +1,4 @@
+#Thu Feb 14 08:24:29 CST 2019
+base.0=C\:\\Users\\Administrator\\Music\\IMYASFINAL\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
